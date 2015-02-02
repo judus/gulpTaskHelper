@@ -22,5 +22,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "./app/AppForFM/Resources/npm/gulpTaskHelper/"
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/judus/gulpTaskHelper.git"
+  }
 }
