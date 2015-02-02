@@ -1,0 +1,26 @@
+{
+  "name": "gulpTaskHelper",
+  "version": "0.1.0",
+  "description": "gulpTaskHelper",
+  "main": "gulpTaskHelper.js",
+  "keywords": [
+    "gulpTaskHelper",
+    "laravel",
+    "elixir",
+    "gulp"
+  ],
+  "author": "Julien Duseyau",
+  "license": "MIT",
+  "dependencies": {
+    "laravel-elixir": "~0.10.6"
+  },
+  "devDependencies": {
+    "laravel-elixir": "*"
+  },
+  "readmeFilename": "readme.md",
+  "_from": "gulpTaskHelper@*",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "./app/AppForFM/Resources/npm/gulpTaskHelper/"
+}
