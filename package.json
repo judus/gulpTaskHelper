@@ -1,6 +1,6 @@
 {
   "name": "gulpTaskHelper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "gulpTaskHelper",
   "main": "gulpTaskHelper.js",
   "keywords": [
@@ -11,10 +11,8 @@
   ],
   "author": "Julien Duseyau",
   "license": "MIT",
-  "dependencies": {
-    "laravel-elixir": "~0.10.6"
-  },
   "devDependencies": {
+    "gulp": "^3.8.8",
     "laravel-elixir": "*"
   },
   "readmeFilename": "readme.md",

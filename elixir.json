@@ -1,0 +1,6 @@
+{
+	"assetsDir": "app/AppForFM/Resources/assets/",
+	"cssOutput": "public/assets",
+	"jsOutput": "public/assets",
+	"bowerDir": "bower_components"
+}
